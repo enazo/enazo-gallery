@@ -15,5 +15,8 @@ README.md
   …
 ```
 
+## 直接访问
+https://raw.githubusercontent.com/enazo/enazo-gallery/main/gallerys/2023-07-19/99555fe321cd18c8579e5662a51aaad6.json
+
 ## 许可声明
 投稿画作权利归画手所有，绘谜画猜画廊仅做整理和展示，如需利用画作请与画手确认授权。
